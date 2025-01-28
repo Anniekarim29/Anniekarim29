@@ -7,9 +7,11 @@
 
 - 🌱 I’m actively enhancing my skills by diving deeper into advanced Flutter concepts, Firebase integrations, and Dart programming to build more dynamic and efficient applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnnieDevHub/AnnieDevHub](https://github.com/AnnieDevHub/AnnieDevHub)
-
-- 💬 Ask me about **Flutter development , mobiles apps ,UI/UX**
+- 👨‍💻 Excited to team up on Flutter-based projects that push creative and technical boundaries. Open to working with like-minded developers to build innovative and user-centric applications.
+  
+- 🤝 Seeking experienced developers for insights on impactful Flutter projects—always eager to learn and collaborate!
+  
+- 💬 Ask me about **Flutter , mobile apps ,UI/UX , dart , Android , ios**
 
 - 📫 How to reach me **flutterbyannie29@gmail.com**
 
