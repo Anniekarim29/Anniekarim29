@@ -5,11 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anniedevhub&label=Profile%20views&color=0e75b6&style=flat" alt="anniedevhub" /> </p>
 
-- 🌱 I’m actively enhancing my skills by diving deeper into advanced Flutter concepts, Firebase integrations, and Dart programming to build more dynamic and efficient applications.
+- 🌱 I’m actively enhancing my skills by diving deeper into advanced Flutter concepts, Firebase integrations, and Dart programming to build more dynamic and
+  efficient applications.
 
-- 👨‍💻  Excited to collaborate on Flutter projects, building innovative and user-centric applications with like-minded developers
+- 👨‍💻  Excited to collaborate on Flutter projects, building innovative and user-centric applications with
+  like-minded developers
   
-- 🤝 Seeking experienced developers for insights on impactful Flutter projects—always eager to learn and collaborate!
+- 🤝 Seeking experienced developers for insights on impactful Flutter projects—always eager to learn
+  and collaborate!
   
 - 💬 Ask me about **Flutter , mobile apps ,UI/UX , dart , Android , ios**
 
