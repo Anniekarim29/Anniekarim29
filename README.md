@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/annie karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annie karim" height="30" width="40" /></a>
 <a href="https://fb.com/annie kariim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="annie kariim" height="30" width="40" /></a>
-<a href="https://www.instagram.com/annie.devhub?igsh=MWd2N2o3aWFmd2FpeQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="annie kariim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/annie.devhub?igsh=MWd2N2o3aWFmd2FpeQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annie kariim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
