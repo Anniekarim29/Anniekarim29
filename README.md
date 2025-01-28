@@ -7,7 +7,7 @@
 
 - 🌱 I’m actively enhancing my skills by diving deeper into advanced Flutter concepts, Firebase integrations, and Dart programming to build more dynamic and efficient applications.
 
-- 👨‍💻 Excited to team up on Flutter-based projects that push creative and technical boundaries. Open to working with like-minded developers to build innovative and user-centric applications.
+- 👨‍💻  Excited to collaborate on Flutter projects, building innovative and user-centric applications with like-minded developers
   
 - 🤝 Seeking experienced developers for insights on impactful Flutter projects—always eager to learn and collaborate!
   
