@@ -1,6 +1,6 @@
 [![MasterHead](https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1920&h=563)
 <h1 align="center">Hi 👋, I'm Anniekarim</h1>
-<h3 align="center">I am a dedicated Flutter Developer with a strong focus on crafting scalable, high-performance, and user-centric mobile applications. My expertise lies in building seamless and intuitive app experiences using Flutter, Dart, and modern development tools, ensuring smooth functionality and an engaging user interface.</h3>
+<h3 align="center">I am a dedicated Flutter App Developer with a strong focus on crafting scalable, high-performance, and user-centric mobile applications. My expertise lies in building seamless and intuitive app experiences using Flutter, Dart, and modern development tools, ensuring smooth functionality and an engaging user interface.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anniedevhub&label=Profile%20views&color=0e75b6&style=flat" alt="anniedevhub" /> </p>
