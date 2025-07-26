@@ -27,8 +27,7 @@ I bring together modern mobile development tools, creativity, and performance-fo
   <a href="https://linkedin.com/in/annie-karim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/share/15jvDDxxuf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/></a>
   <a href="https://www.instagram.com/annie.devhub" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
-</p>
- <a href="https://www.behance.net/anniekarim1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" alt="behance"/></a>
+</p> <a href="https://www.behance.net/anniekarim1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" alt="behance"/></a>
 </p>
 
 ---
