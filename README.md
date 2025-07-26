@@ -37,8 +37,6 @@ I bring together modern mobile development tools, creativity, and performance-fo
 ---
 
 ### 🛠️ Languages, Frameworks & Tools I Use:
-#### 🔗 Connect with My Tech Stack:
-
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/></a>
