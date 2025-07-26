@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anniekarim</h1>
 <h3 align="center">I'm a results-driven Flutter developer passionate about building scalable, high-performance mobile applications that deliver exceptional user experiences.
 With expertise in Flutter, Dart, and modern development tools, I specialize in creating smooth, intuitive, and responsive app interfaces that are both visually engaging and functionally robust.
-Whether it's crafting clean UI/UX, integrating complex APIs, optimizing performance, or maintaining clean architecture, I bring a user-centric mindset and engineering precision to every project.I don’t just build apps I craft experiences.
-Let’s create something meaningful together.</h3>
+Whether it's crafting clean UI/UX, integrating complex APIs, optimizing performance, or maintaining clean architecture, I bring a user-centric mindset and engineering precision to every project.Let’s create something meaningful together.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anniedevhub&label=Profile%20views&color=0e75b6&style=flat" alt="anniedevhub" /> </p>
