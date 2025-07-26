@@ -1,7 +1,7 @@
 [![MasterHead](https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1920&h=563)](https://github.com/Anniekarim29)
 
 <h1 align="center">Hi 👋, I'm Anniekarim</h1>
-<h3 align="center"> Passionate Flutter Developer | UI/UX Enthusiast | Firebase Integrator</h3>
+<h3 align="center"> Flutter Developer | Full-stack Developer | firebase + Node.js </h3>
 
 <p align="center">
 I’m a results-driven Flutter developer focused on building intuitive, scalable, and high-performance mobile applications.  
