@@ -5,7 +5,7 @@
 
 <p align="center">
 I’m a results-driven Flutter developer focused on building intuitive, scalable, and high-performance mobile applications.  
-With a deep love for beautiful design and clean code, I craft apps that *not only work great — but feel great*.  
+With a deep love for beautiful design and clean code, I craft apps that *not only work great but feel great*.  
 I bring together modern mobile development tools, creativity, and performance-focused architecture to deliver seamless app experiences from idea to App Store.  
  Let’s create something meaningful together.
 </p>
@@ -19,9 +19,6 @@ I bring together modern mobile development tools, creativity, and performance-fo
   <br><br><br>
   <img alt="Coding" width="350" src="https://i.gifer.com/JXA0.gif" />
 </p>
-
-
-
 - 🌱 Currently leveling up in **advanced Flutter**, **clean architecture**, **Firebase services**, **animations**, and **Dart best practices**.
 - 💬 Ask me about:
   - **Flutter SDK**
