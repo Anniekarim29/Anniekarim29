@@ -31,7 +31,7 @@ I bring together modern mobile development tools, creativity, and performance-fo
 -  Open to collaborate on meaningful mobile projects with passionate devs and designers.
 -  Always curious to learn new stacks, tools, and open-source contributions.
 
-- 📫 Reach me at **flutterbyannie29@gmail.com**
+-  Reach me at **flutterbyannie29@gmail.com**
 
 
 
@@ -57,8 +57,6 @@ I bring together modern mobile development tools, creativity, and performance-fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/null/postman-api.png" alt="Postman" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-canva-a-graphic-design-platform-used-to-create-social-media-graphics-logo-color-tal-revivo.png" alt="Canva" width="40" height="40"/>
 </p>
 
 
