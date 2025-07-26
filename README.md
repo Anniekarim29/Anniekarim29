@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Anniekarim 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full+Full-stack+Dev+%7C+UI/UX+Enthusiast+%7C+Mobile+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full-Stack+Dev+%7C+UI/UX+Enthusiast+%7C+Mobile+Craftsman" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -21,7 +21,17 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 ---
 
-###  About Me
+### 🔗 Connect with Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/annie-karim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/share/15jvDDxxuf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/annie.devhub" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
+</p>
+
+---
+
+### 🙋‍♀️ About Me
 - 🌱 Currently leveling up in **Advanced Flutter**, **Clean Architecture**, **Firebase Services**, **Animations**, and **Dart Best Practices**.
 - 💬 Ask me about:  
   - Flutter SDK  
@@ -37,6 +47,7 @@ I bring together modern mobile development tools, creativity, and performance-fo
 ---
 
 ### 🛠️ Languages, Frameworks & Tools I Use:
+
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/></a>
@@ -65,19 +76,17 @@ I bring together modern mobile development tools, creativity, and performance-fo
 ### 🏆 GitHub Achievements & Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anniekarim29&theme=onestar&rank=B,C,A&margin-w=10&margin-h=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anniekarim29&theme=onestar&rank=AA,A,B,C&margin-w=10&margin-h=10&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats & Activity:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anniekarim29&layout=compact&theme=tokyonight" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anniekarim29&theme=tokyonight" alt="GitHub Streak" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anniekarim29&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anniekarim29&theme=tokyonight" height="180px" />
 </p>
 
 ---
@@ -90,10 +99,8 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 ---
 
-### 🔗 Connect with Me:
+### 🧩 Animated Contribution Grid:
 
 <p align="center">
-  <a href="https://linkedin.com/in/annie-karim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/share/15jvDDxxuf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/annie.devhub" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
