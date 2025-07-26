@@ -1,12 +1,13 @@
 [![MasterHead](https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1920&h=563)](https://github.com/Anniekarim29)
 
 <h1 align="center">Hi 👋, I'm Anniekarim</h1>
-<h3 align="center">I'm a results-driven Flutter developer passionate about building scalable, high-performance mobile applications that deliver exceptional user experiences.</h3>
+<h3 align="center"> Passionate Flutter Developer | UI/UX Enthusiast | Firebase Integrator</h3>
 
 <p align="center">
-With expertise in Flutter, Dart, and modern development tools, I specialize in creating smooth, intuitive, and responsive app interfaces that are both visually engaging and functionally robust.  
-Whether it's crafting clean UI/UX, integrating complex APIs, optimizing performance, or maintaining clean architecture, I bring a user-centric mindset and engineering precision to every project.  
-Let’s create something meaningful together.
+I’m a results-driven Flutter developer focused on building intuitive, scalable, and high-performance mobile applications.  
+With a deep love for beautiful design and clean code, I craft apps that *not only work great — but feel great*.  
+I bring together modern mobile development tools, creativity, and performance-focused architecture to deliver seamless app experiences from idea to App Store.  
+  Let’s create something meaningful together.
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif" />
@@ -17,19 +18,25 @@ Let’s create something meaningful together.
 
 ---
 
-- 🌱 I’m actively enhancing my skills by diving deeper into advanced Flutter concepts, Firebase integrations, and Dart programming to build more dynamic and efficient applications.
+- 🌱 Currently leveling up in **advanced Flutter**, **clean architecture**, **Firebase services**, **animations**, and **Dart best practices**.
+- 💬 Ask me about:
+  - **Flutter SDK**
+  - **State Management (Bloc, Provider, Riverpod)**
+  - **Firebase Auth & Firestore**
+  - **REST APIs & HTTP**
+  - **UI/UX Design with Figma**
+  - **App Deployment (Play Store + App Store)**
+  - **Performance Optimization & Animation**
 
-- 👨‍💻 Excited to collaborate on Flutter projects and build innovative, user-centric applications with like-minded developers.
-
-- 🤝 Seeking experienced developers for insights on impactful Flutter projects — always eager to learn and collaborate!
-
-- 💬 Ask me about **Flutter, mobile apps, UI/UX, Dart, Android, iOS**
+-  Open to collaborate on meaningful mobile projects with passionate devs and designers.
+-  Always curious to learn new stacks, tools, and open-source contributions.
 
 - 📫 Reach me at **flutterbyannie29@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
+### 🔗 Connect with Me:
+
 <p align="left">
 <a href="https://linkedin.com/in/annie-karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annie-karim" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/15jvDDxxuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="annie-karim" height="30" width="40" /></a>
@@ -38,7 +45,8 @@ Let’s create something meaningful together.
 
 ---
 
-### 🛠️ Languages & Tools I Work With:
+### 🛠️ Languages, Frameworks & Tools I Use:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
@@ -48,18 +56,23 @@ Let’s create something meaningful together.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/null/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-canva-a-graphic-design-platform-used-to-create-social-media-graphics-logo-color-tal-revivo.png" alt="Canva" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements & Trophies:
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Anniekarim29&theme=onestar&rank=B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats & Activity:
+
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anniekarim29&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anniekarim29&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
