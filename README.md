@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Anniekarim 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full-Stack+Creator+%7C+Clean+Code+Lover+%7C+Mobile+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full-Full-stack+Dev+%7C+UI/UX+Enthusiast+%7C+Mobile+Craftsman" alt="Typing SVG" />
 </h3>
 
 <p align="center">
