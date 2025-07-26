@@ -1,13 +1,12 @@
 [![MasterHead](https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1920&h=563)](https://github.com/Anniekarim29)
 
-<h1 align="center">Hi 👋, I'm Anniekarim</h1>
+<h1 align="center">Hi , I'm Anniekarim</h1>
 <h3 align="center"> Flutter Developer | Full-Stack Developer | Firebase+Node.js</h3>
 
 <p align="center">
 I’m a results-driven Flutter developer focused on building intuitive, scalable, and high-performance mobile applications.  
 With a deep love for beautiful design and clean code, I craft apps that *not only work great but feel great*.  
 I bring together modern mobile development tools, creativity, and performance-focused architecture to deliver seamless app experiences from idea to App Store.  
- Let’s create something meaningful together.
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif" />
