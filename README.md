@@ -23,7 +23,7 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 ### 🔗 Connect with Me:
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/annie-karim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/share/15jvDDxxuf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/></a>
   <a href="https://www.instagram.com/annie.devhub" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
