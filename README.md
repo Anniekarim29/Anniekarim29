@@ -1,7 +1,7 @@
 [![MasterHead](https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1920&h=563)](https://github.com/Anniekarim29)
 
 <h1 align="center">Hi 👋, I'm Anniekarim</h1>
-<h3 align="center"> Flutter Developer | Full-Stack Developer | Firebse + Node.js</h3>
+<h3 align="center"> Flutter Developer | Full-Stack Developer | Firbase + Node.js</h3>
 
 <p align="center">
 I’m a results-driven Flutter developer focused on building intuitive, scalable, and high-performance mobile applications.  
@@ -12,6 +12,12 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Anniekarim29&label=Profile%20views&color=0e75b6&style=flat" alt="Anniekarim29" /> 
+</p>
+
+<!-- 👉 Animation image floated to right + spaced down 👇 -->
+<p align="right">
+  <br><br><br>
+  <img alt="Coding" width="350" src="https://i.gifer.com/JXA0.gif" />
 </p>
 
 
@@ -56,10 +62,6 @@ I bring together modern mobile development tools, creativity, and performance-fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
-
-
-<img align="center" alt="Coding" width="500" src="https://i.gifer.com/JXA0.gif" />
 
 
 
