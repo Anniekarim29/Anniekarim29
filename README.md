@@ -63,18 +63,10 @@ I bring together modern mobile development tools, creativity, and performance-fo
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/annie-karim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/share/15jvDDxxuf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/annie.devhub" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://www.behance.net/anniekarim1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" alt="Behance"/>
-  </a>
+  <a href="https://linkedin.com/in/annie-karim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/share/15jvDDxxuf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/annie.devhub" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
+  <a href="https://www.behance.net/anniekarim1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" alt="Behance"/></a>
 </p>
 
 ---
@@ -97,7 +89,24 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 ---
 
+### 🧩 Animated Contribution Grid
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
 ### 🌟 Dev Quote of the Day
 
-```text
-"Code is like poetry — each line should speak with purpose and style." 💻✨
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+</div>
+
+---
+
+### 💡 Top Contributor Box
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Anniekarim29&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributors"/>
+</p>
