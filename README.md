@@ -89,9 +89,8 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
 
 
 
