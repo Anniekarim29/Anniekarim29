@@ -73,7 +73,7 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 ### 🏆 GitHub Achievements & Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Anniekarim29&theme=onestar&no-bg=true&no-frame=true&rank=AA,A,B,C&title=Commits,Repositories,Followers,Stars,PullRequest,MultiLanguage" />
 </p>
 
@@ -81,13 +81,13 @@ I bring together modern mobile development tools, creativity, and performance-fo
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anniekarim29&layout=compact&theme=tokyonight" height="180px" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&theme=tokyonight" height="180px" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anniekarim29&theme=tokyonight" height="180px" />
 </p>
 
