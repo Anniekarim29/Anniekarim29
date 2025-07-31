@@ -9,9 +9,10 @@
 </h3>
 
 <p align="center">
-I’m a results-driven Flutter developer focused on building intuitive, scalable, and high-performance mobile applications.  
-With a deep love for beautiful design and clean code, I craft apps that not only work great but feel great.  
-I bring together modern mobile development tools, creativity, and performance-focused architecture to deliver seamless app experiences from idea to App Store.  
+I’m a Flutter developer passionate about building smooth, scalable, and user-friendly mobile apps.
+From clean UI to seamless functionality, I care about how apps look, feel, and perform.
+I’ve built 5+ mini projects — from custom UIs to animated components — blending creativity with performance.
+With every build, I aim to turn ideas into real, polished app experiences ready for users. 
 </p>
 
 <!-- 👩‍💻 Coding GIF -->
