@@ -96,11 +96,13 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
 
 <div align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    src="https://i.imgur.com/2z7n3P6.png" 
     alt="Dev Quote" 
-    style="width: 100%; max-width: 600px;" 
+    style="width: 100%; max-width: 500px;" 
   />
 </div>
+
+
 
 
 
