@@ -95,11 +95,14 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
 
 
 
-### 🌟 Dev Quote of the Day
-
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+<div align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    alt="Dev Quote" 
+    style="width: 100%; max-width: 600px;" 
+  />
 </div>
+
 
 ---
 
