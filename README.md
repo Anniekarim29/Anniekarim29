@@ -95,9 +95,8 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
 
 
 <div align="left">
-  <img src="..." alt="dev quote" />
+  <img src="https://i.imgur.com/3GgU3aN.png" alt="dev quote" />
 </div>
-
 
 
 
