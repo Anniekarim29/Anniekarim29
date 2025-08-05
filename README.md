@@ -94,9 +94,14 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 
 
-<div align="left">
-  <img src="https://i.imgur.com/3GgU3aN.png" alt="dev quote" />
+<div align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    alt="Dev Quote" 
+    style="width: 100%; max-width: 600px;" 
+  />
 </div>
+
 
 
 
