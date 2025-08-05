@@ -94,21 +94,9 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 
 
-<div align="center">
-  <img 
-    src="https://i.imgur.com/2z7n3P6.png" 
-    alt="Dev Quote" 
-    style="width: 100%; max-width: 500px;" 
-  />
-</div>
 
 
 
-
-
-
-
----
 
 ### 💡 Top Contributed repo
 
