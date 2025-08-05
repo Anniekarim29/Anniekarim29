@@ -96,8 +96,19 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
 
 
 <div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+  <div style="display: flex; align-items: center; background-color: #0d1117; color: #f0f6fc; font-family: 'Segoe UI', sans-serif; padding: 20px 30px; border-radius: 10px; max-width: 700px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+    <div style="font-size: 40px; margin-right: 20px;">❝</div>
+    <div>
+      <div style="font-size: 20px; line-height: 1.5; font-weight: 500;">
+        First, solve the problem. Then, write the code.
+      </div>
+      <div style="margin-top: 10px; font-size: 16px; color: #8b949e;">
+        — John Johnson
+      </div>
+    </div>
+  </div>
 </div>
+
 
 
 
