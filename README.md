@@ -97,11 +97,12 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
 
 <div align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
-    alt="Dev Quote" 
-    style="width: 100%; max-width: 600px;" 
+    src="https://miro.medium.com/v2/resize:fit:1280/1*ijVsunnwo-yEnUzDOx_Nrw.jpeg" 
+    alt="Inspiring Programming Quote" 
+    style="max-width: 100%; height: auto;" 
   />
 </div>
+
 
 
 ---
