@@ -94,17 +94,23 @@ With every build, I aim to turn ideas into real, polished app experiences ready 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 
 
-
 <div align="left">
-  <div style="display: flex; align-items: center; background-color: #0d1117; color: #f0f6fc; font-family: 'Segoe UI', sans-serif; padding: 20px 30px; border-radius: 10px; max-width: 700px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
-    <div style="font-size: 40px; margin-right: 20px;">❝</div>
-    <div>
-      <div style="font-size: 20px; line-height: 1.5; font-weight: 500;">
-        First, solve the problem. Then, write the code.
-      </div>
-      <div style="margin-top: 10px; font-size: 16px; color: #8b949e;">
-        — John Johnson
-      </div>
+  <div style="
+    background-color: #0d1117;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px 30px;
+    border-radius: 10px;
+    max-width: 700px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    line-height: 1.6;
+  ">
+    <div style="font-size: 28px; font-weight: 500; margin-bottom: 10px;">
+      ❝ code is like humor
+      when you have to explain it its bad ❞
+    </div>
+    <div style="font-size: 16px; color: #8b949e;">
+      — cory house
     </div>
   </div>
 </div>
