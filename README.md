@@ -1,6 +1,6 @@
 <!-- 🚀 Updated Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/C:\Users\HP\Downloads" alt="Flutter Banner - AnnieKarim" width="100%" />
+  <img src="https://github.com/user-attachments/assets/C:\Users\HP\Downloads\banner" alt="Flutter Banner - AnnieKarim" width="100%" />
 </p>
 <h1 align="center">Hi, I'm Anniekarim 👋</h1>
 <h3 align="center">
