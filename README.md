@@ -1,7 +1,6 @@
 <!-- 🚀 Updated Banner -->
 <p align="center">
- <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/8831a348-bd2a-4268-89cf-cad8e51f28be" />
-</p>
+ <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/0e1fccf4-bbde-439c-adde-f96f0294cc09" />
 <h1 align="center">Hi, I'm Anniekarim 👋</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full+Flutter+Dev+%7C+UI/UX+Enthusiast+%7C+Mobile+Craftsman" alt="Typing SVG" />
