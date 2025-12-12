@@ -7,10 +7,10 @@
 
 
 <p align="center">
-I’m a Flutter developer passionate about building smooth, scalable, and user-friendly mobile apps.
- I focus on clean architecture, performance, and user experience, ensuring every feature works seamlessly. 
- I have built and deployed 6 scalable apps that handle growth without compromising speed or quality, turning 
- ideas into polished, production-ready applications built to last.
+I’m a Flutter Developer who builds smooth, fast, and reliable mobile apps that help businesses grow.
+I’ve built and deployed 6 apps that scale seamlessly and deliver real results, turning ideas into production-ready 
+applications your customers will love.
+If you want a mobile app that works flawlessly and boosts your business, let’s make it happen.
 </p>
 
 <!-- 👩‍💻 Coding GIF -->
