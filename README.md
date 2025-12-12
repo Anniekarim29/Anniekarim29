@@ -3,7 +3,7 @@
  <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/d218f896-6873-4580-8bf2-e0b539806379" />
  <h1 align="center">Hi, I'm Anniekarim 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full+Flutter+Dev+%7C+%7C+Mobile+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full+Flutter+Dev+%7C+%7C+Craftsman" alt="Typing SVG" />
 </h3>
 
 <p align="center">
