@@ -104,8 +104,4 @@ If you want a mobile app that works flawlessly and boosts your business, let’s
 
 ---
 
-### 💡 Fun Fact
-- ✨ I love turning **complex UI ideas** into **beautiful Flutter apps**  
-- 🎨 Big fan of **animations, neon themes, and smooth transitions**  
-- 🧩 Always experimenting with **mini packages, widgets, and custom libraries**  
-- 🌐 Obsessed with sharing my **Flutter journey and open-source contributions*
+
