@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=I'm+Annie+Karim;Flutter+App+Developer;I+build+and+ship+mobile+apps" />
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -12,7 +12,7 @@ I’m Annie, a Flutter developer who enjoys building things that actually work i
 
 My goal is simple: if an app runs smoothly on both Android and iOS, is structured cleanly, and can be shipped without surprises, that’s a win. Still learning, still improving, and focused on building better mobile experiences with Flutte
 
----
+
 
 ## 🧩 What I Build
 
@@ -22,7 +22,7 @@ My goal is simple: if an app runs smoothly on both Android and iOS, is structure
 - 🎨 UI implementation from design to production
 - 🚀 Scalable features ready for real users
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -38,7 +38,7 @@ My goal is simple: if an app runs smoothly on both Android and iOS, is structure
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
----
+
 
 ## 🎯 Current Focus
 
@@ -47,20 +47,20 @@ My goal is simple: if an app runs smoothly on both Android and iOS, is structure
 - Writing clean, scalable Flutter code
 - Shipping **real apps**, not just demos
 
----
+
 
 ## 📝 Notes
 
 Some repositories are experiments, some are complete apps.  
 Each project represents **hands-on learning and real implementation**.
 
----
+
 
 ## 📫 Contact
 
 📧 **flutterbyannie29@gmail.com**
 
----
+
 
 ## 📊 GitHub Stats
 
