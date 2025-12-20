@@ -4,15 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=I'm+Annie+Karim;Flutter+App+Developer;I+build+and+ship+mobile+apps+🚀" />
 </p>
 
----
 
-### 👩‍💻 About
+### 👩‍💻 About Me
 I’m Annie, a Flutter app developer who enjoys building **real-world mobile applications** 📱
 
 I focus on turning ideas into working products — handling UI, state management, backend integration, and deployment ⚙️  
 If something can be built cleanly and shipped properly, that’s what I aim for ✨
 
----
 
 ### 🧩 What I Build
 - Cross-platform mobile apps using **Flutter**
@@ -21,7 +19,6 @@ If something can be built cleanly and shipped properly, that’s what I aim for 
 - UI implementation from design to production 🎨
 - Scalable features ready for real users
 
----
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -33,26 +30,22 @@ If something can be built cleanly and shipped properly, that’s what I aim for 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
----
 
 ### 🎯 Current Focus
 - Building full Flutter products (UI + backend)
 - Improving app performance & animations ✨
 - Writing clean, scalable Flutter code
-- Shipping projects instead of just demos 🚀
+- Shipping projects instead of just demos 
 
----
 
 ### 📝 Notes
 Some repositories are experiments, some are complete apps.  
-Each project represents hands-on learning and real implementation 💡
+Each project represents hands-on learning and real implementation 
 
----
 
 ### 📫 Contact
 📧 flutterbyannie29@gmail.com  
 
----
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&theme=default" height="160"/>
