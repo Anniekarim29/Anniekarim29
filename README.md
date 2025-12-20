@@ -39,10 +39,9 @@ My goal is simple: if an app runs smoothly on both Android and iOS, is structure
 - Writing clean, scalable Flutter code
 - Shipping real apps, not just demos
 
-## Notes
+## fun fact
 
-Some repositories are experiments, some are complete apps.  
-Each project represents hands-on learning and real implementation.
+If it works on iOS and Android, it’s probably luck :)
 
 ## Contact
 
