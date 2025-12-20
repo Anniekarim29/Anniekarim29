@@ -1,22 +1,21 @@
-<h1 align="center">Hey there 👋✨</h1>
+<h1 align="center">Hey there ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=I'm+Annie+Karim;Flutter+App+Developer;I+build+and+ship+mobile+apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=I'm+Annie+Karim;Flutter+App+Developer;I+build+and+ship+mobile+apps+" />
 </p>
 
 
 ### 👩‍💻 About Me
-I’m Annie, a Flutter app developer who enjoys building **real-world mobile applications** 📱
+I’m Annie Karim, a Flutter developer who enjoys building things that actually work in the real world. I like taking an idea and turning it into a usable mobile app by handling UI, state management, API integration, and deployment.
 
-I focus on turning ideas into working products — handling UI, state management, backend integration, and deployment ⚙️  
-If something can be built cleanly and shipped properly, that’s what I aim for ✨
+My goal is simple: if an app runs smoothly on both Android and iOS, is structured cleanly, and can be shipped without surprises, that’s a win. Still learning, still improving, and focused on building better mobile experiences with Flutter. more optimization needid
 
 
 ### 🧩 What I Build
 - Cross-platform mobile apps using **Flutter**
 - Backend-connected apps with **Firebase & REST APIs**
 - Clean architecture & maintainable codebases
-- UI implementation from design to production 🎨
+- UI implementation from design to production 
 - Scalable features ready for real users
 
 
@@ -33,7 +32,7 @@ If something can be built cleanly and shipped properly, that’s what I aim for 
 
 ### 🎯 Current Focus
 - Building full Flutter products (UI + backend)
-- Improving app performance & animations ✨
+- Improving app performance & animations 
 - Writing clean, scalable Flutter code
 - Shipping projects instead of just demos 
 
