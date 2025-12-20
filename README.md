@@ -12,11 +12,11 @@ I care about clean structure, smooth performance, and apps that can be shipped w
 
 ## What I Build
 
-Cross-platform mobile apps using Flutter
-Backend-driven applications using Firebase, REST APIs, and Node.js
-Clean, maintainable architectures built for scale
-Production-ready UI implemented from design to final app
-Features built for real users, not just demos
+- Cross-platform mobile apps using Flutter
+- Backend-driven applications using Firebase, REST APIs, and Node.js
+- Clean, maintainable architectures built for scale
+- Production-ready UI implemented from design to final app
+- Features built for real users, not just demos
 
 
 ## Tech Stack
