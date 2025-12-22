@@ -7,8 +7,9 @@
 ## About Me
 
 I’m Annie, a Flutter developer focused on building real, production-ready mobile applications.
-I work across the full app lifecycle UI, state management, API integration, and deployment for Android and iOS.
-I care about clean structure, smooth performance, and apps that can be shipped with confidence.
+I work across the full app lifecycle UI, state management, API integration, and deployment 
+for Android and iOS.I care about clean structure, smooth performance, and apps that can 
+be shipped with confidence.
 
 ## What I Build
 
