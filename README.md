@@ -48,9 +48,3 @@ If it works on iOS and Android, it’s probably luck :)
 
 Email: flutterbyannie29@gmail.com
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anniekarim29&layout=compact" height="160"/>
-</p>
