@@ -15,7 +15,7 @@ state management, API integration, and deployment for Android and iOS.
 I care about clean structure, smooth performance,  
 and apps that can be shipped with confidence.
 
-## 🧩 What I Build
+##  What I Build
 
 - Cross-platform mobile applications using Flutter  
 - Backend-driven apps with Firebase, REST APIs, and Node.js  
@@ -23,7 +23,7 @@ and apps that can be shipped with confidence.
 - Production-ready UI implemented from design to final build  
 - Features built for real users, not just demos  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
@@ -37,19 +37,19 @@ and apps that can be shipped with confidence.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building complete Flutter products from frontend to backend  
 - Improving performance and animations  
 - Writing clean, scalable Flutter code  
 - Shipping real apps, not just portfolio demos  
 
-## ✨ Fun Fact
+##  Fun Fact
 
 If it runs smoothly on both iOS and Android,  
 it’s either well-written Flutter code or a little bit of luck 😄
 
-## 📬 Let’s Connect
+##  Let’s Connect
 
 Email: flutterbyannie29@gmail.com  
 
