@@ -1,4 +1,5 @@
-## Hi 👋, I'm Anna  
+## Hi 🙂, I'm Annie karim
+
 🌚 A Flutter developer focused on state management, backend integration, and scalable app architecture.
 
 🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
