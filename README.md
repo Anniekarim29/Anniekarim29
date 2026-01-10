@@ -1,7 +1,7 @@
-<p align="center">## Hi 🙂, I'm Annie Karim</p>
+<p align="center">**Hi 🐼, I'm Annie Karim**</p>
+<p align="center">A Flutter App developer from Pakistan</p>
+<p align="center">anniekarim29</p>
 
-
-🔭 A Flutter developer focused on state management, backend integration, and scalable app architecture.
 
 🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
 
