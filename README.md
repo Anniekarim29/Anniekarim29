@@ -1,6 +1,6 @@
 <p align="center"><b>Hi 🐼, I'm Annie Karim</b></p>
-<p align="center">A Flutter App developer from Pakistan</p>
-<p align="center">anniekarim29</p>
+<p align="center"><b></b>A Flutter App developer from Pakistan</p>
+<p align="center"><b></b>anniekarim29</p>
 
 🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
 
@@ -14,8 +14,6 @@
 📧 flutterbyannie29@gmail.com  
 🔗 https://www.linkedin.com/in/annie-karim/
 
-⚡ Fun fact  
-If it works on both iOS and Android, it’s probably luck 🙂
 
 ---
 
@@ -55,13 +53,5 @@ If it works on both iOS and Android, it’s probably luck 🙂
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&theme=dark"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anniekarim29&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anniekarim29&layout=compact&theme=dark"/>
-</p>
-
----
-
-<img src="https://visitcount.itsvg.in/api?id=Anniekarim29&icon=0&color=0"/>
+⚡ Fun fact  
+If it works on both iOS and Android, it’s probably luck 🙂
