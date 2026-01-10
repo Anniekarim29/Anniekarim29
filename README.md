@@ -18,36 +18,34 @@
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/annie-karim/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linkedin.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/annie_kariim/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/instagram.svg" width="40"/>
   </a>
   <a href="https://www.facebook.com/annie.kariim">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/facebook.svg" width="40"/>
   </a>
   <a href="https://www.tiktok.com/@shecodes_apps">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tiktok.svg" width="40"/>
   </a>
 </p>
-
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="45"/>
-  <img src="https://cdn.simpleicons.org/dart/0175C2" width="45"/>
-  <img src="https://cdn.simpleicons.org/riverpod/1E88E5" width="45"/>
-  <img src="https://cdn.simpleicons.org/node.js/339933" width="45"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="45"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45"/>
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45"/>
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/>
-  <img src="https://cdn.simpleicons.org/git/F05033" width="45"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="45"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/flutter.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/dart.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/riverpod.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/nodejs.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/express.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mongodb.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/firebase.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/supabase.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/git.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/figma.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/visualstudiocode.svg" width="45"/>
 </p>
 
-
 ⚡ Fun fact  
-If it works on both iOS and Android, it’s probably luck 🙂
+If it works on both iOS and Android, it’s probably luck 😄
