@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Connect with me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/annie-karim/" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40"/>
   </a>
@@ -35,7 +35,7 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/flutter/02569B" width="45"/>
   <img src="https://cdn.simpleicons.org/dart/0175C2" width="45"/>
   <img src="https://cdn.simpleicons.org/riverpod/1E88E5" width="45"/>
