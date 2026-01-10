@@ -1,17 +1,15 @@
-## Hi 🙂, I'm Annie karim
+<p align="center">## Hi 🙂, I'm Annie Karim</p>
 
-🌚 A Flutter developer focused on state management, backend integration, and scalable app architecture.
+
+🔭 A Flutter developer focused on state management, backend integration, and scalable app architecture.
 
 🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
 
-🌝 I’m currently learning  
-Riverpod for production-grade state management and Node.js for building REST APIs.
+🌝 I’m currently learning Riverpod for production-grade state management and Node.js for building REST APIs.
 
-👯 I’m looking to collaborate on  
-Flutter apps with backend APIs, organized state handling, and maintainable codebases.
+👯 I’m looking to collaborate on Flutter apps with backend APIs, organized state handling, and maintainable codebases.
 
-💬 Ask me about  
-Flutter state management, REST API integration, app architecture, navigation, and production-ready builds.
+💬 Ask me about Flutter state management, REST API integration, app architecture, navigation, and production-ready builds.
 
 📫 How to reach me  
 📧 flutterbyannie29@gmail.com  
