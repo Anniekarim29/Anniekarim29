@@ -1,24 +1,20 @@
 ## Hi 🐼, I'm Annie Karim
 A Flutter developer focused on state management, backend integration, and scalable app architecture.
 
-🔭 I’m currently working on  
-Flutter apps with clean architecture, proper state management, and real backend integration.
+🔭 I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
 
-🌱 I’m currently learning  
-Riverpod for production-grade state management and Node.js for building REST APIs.
+🌱 I’m currently learning Riverpod for production-grade state management and Node.js for building REST APIs.
 
-👯 I’m looking to collaborate on  
-Flutter apps with backend APIs, organized state handling, and maintainable codebases.
+👯 I’m looking to collaborate on Flutter apps with backend APIs, organized state handling, and maintainable codebases.
 
-💬 Ask me about  
-Flutter state management, REST API integration, app architecture, navigation, and production-ready builds.
+💬 Ask me about Flutter state management, REST API integration, app architecture, navigation, and production-ready builds.
 
 📫 How to reach me  
 Email: flutterbyannie29@gmail.com  
 LinkedIn: https://www.linkedin.com/in/annie-karim/
 
 ⚡ Fun fact  
-If it works on both iOS and Android, it’s probably luck 🙂
+If it works on both iOS and Android, it’s probably luck🌚
 
 ---
 
@@ -48,11 +44,6 @@ If it works on both iOS and Android, it’s probably luck 🙂
 ![](https://nirzak-streak-stats.vercel.app/?user=Anniekarim29&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anniekarim29&theme=dark&layout=compact)
 
----
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anniekarim29&theme=radical&no-frame=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Anniekarim29&icon=0&color=0)](https://visitcount.itsvg.in)
