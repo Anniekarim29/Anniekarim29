@@ -1,6 +1,6 @@
 <p align="center"><b>Hi 🐼, I'm Annie Karim</b></p>
-<p align="center"><b></b>A Flutter App developer from Pakistan</p>
-<p align="center"><b></b>anniekarim29</p>
+<p align="center"><b>A Flutter App developer from Pakistan</b></p>
+<p align="center"><b><a href="https://www.linkedin.com/in/annie-karim/" target="_blank">anniekarim29</a></b></p>
 
 🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
 
@@ -15,43 +15,39 @@
 🔗 https://www.linkedin.com/in/annie-karim/
 
 
----
-
 ## 🌐 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/annie-karim/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/annie_kariim/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/icons/instagram.svg" width="40"/>
   </a>
   <a href="https://www.facebook.com/annie.kariim" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
   </a>
   <a href="https://www.tiktok.com/@shecodes_apps" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok/000000" width="40"/>
+    <img src="https://cdn.simple-icons.org/tiktok/000000" width="40"/>
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/riverpod/riverpod-original.svg" width="45"/>
+  <img src="https://cdn.simpleicons.org/riverpod/1E88E5" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/icons/supabase.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
----
 
 ⚡ Fun fact  
 If it works on both iOS and Android, it’s probably luck 🙂
