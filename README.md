@@ -1,8 +1,10 @@
 <p align="center"><b>Hi 🐼, I'm Annie Karim</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=I%E2%80%99m;Flutter+App+Developer;from+pakistan+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Flutter+App+Developer+from+Pakistan" />
 </p>
+
+
 
 <p align="center"><b><a href="https://www.linkedin.com/in/annie-karim/" target="_blank">anniekarim29</a></b></p>
 
