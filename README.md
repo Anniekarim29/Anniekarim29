@@ -1,7 +1,6 @@
-<p align="center">**Hi 🐼, I'm Annie Karim**</p>
+<p align="center"><b>Hi 🐼, I'm Annie Karim</b></p>
 <p align="center">A Flutter App developer from Pakistan</p>
 <p align="center">anniekarim29</p>
-
 
 🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
 
@@ -18,6 +17,7 @@
 ⚡ Fun fact  
 If it works on both iOS and Android, it’s probably luck 🙂
 
+---
 
 ## 🌐 Connect with me
 <p align="left">
@@ -35,51 +35,30 @@ If it works on both iOS and Android, it’s probably luck 🙂
   </a>
 </p>
 
+---
 
 ## 💻 Tech Stack
-
-### 📱 Mobile
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-</p>
-
-### 🧠 State Management
-<p>
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="45"/>
-  <img src="https://cdn.simpleicons.org/riverpod/1E88E5" width="45"/>
-</p>
-
-### 🌐 Backend
-<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/riverpod/riverpod-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-</p>
-
-### 🗄️ Databases & Auth
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/>
-</p>
-
-### 🛠 Tools
-<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Anniekarim29&show_icons=true&theme=dark"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Anniekarim29&theme=dark"/>
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anniekarim29&layout=compact&theme=dark"/>
 </p>
 
