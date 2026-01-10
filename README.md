@@ -18,34 +18,34 @@
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/annie-karim/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40"/>
   </a>
   <a href="https://www.instagram.com/annie_kariim/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/icons/instagram.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
   </a>
   <a href="https://www.facebook.com/annie.kariim" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>
   </a>
   <a href="https://www.tiktok.com/@shecodes_apps" target="_blank">
-    <img src="https://cdn.simple-icons.org/tiktok/000000" width="40"/>
+    <img src="https://cdn.simpleicons.org/tiktok/000000" width="40"/>
   </a>
 </p>
 
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="45"/>
+  <img src="https://cdn.simpleicons.org/dart/0175C2" width="45"/>
   <img src="https://cdn.simpleicons.org/riverpod/1E88E5" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/icons/supabase.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="45"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="45"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45"/>
+  <img src="https://cdn.simpleicons.org/git/F05033" width="45"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="45"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45"/>
 </p>
 
 
