@@ -14,6 +14,7 @@
 📧 flutterbyannie29@gmail.com  
 🔗 https://www.linkedin.com/in/annie-karim/
 
+---
 
 ## 🌐 Connect with me
 <p align="center">
@@ -31,6 +32,7 @@
   </a>
 </p>
 
+---
 
 ## 💻 Tech Stack
 <p align="center">
@@ -48,6 +50,7 @@
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45"/>
 </p>
 
+---
 
 ⚡ Fun fact  
 If it works on both iOS and Android, it’s probably luck 🙂
