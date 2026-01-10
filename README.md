@@ -31,21 +31,20 @@
   </a>
 </p>
 
-## 💻 Tech Stack
+##  Tech Stack
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/flutter.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/dart.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/riverpod.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/nodejs.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/express.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mongodb.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/firebase.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/supabase.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/git.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/figma.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/visualstudiocode.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
+
 
 ⚡ Fun fact  
 If it works on both iOS and Android, it’s probably luck 😄
