@@ -1,5 +1,9 @@
 <p align="center"><b>Hi 🐼, I'm Annie Karim</b></p>
-<p align="center"><b>A Flutter App developer from Pakistan</b></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=I%E2%80%99m;Flutter+App+Developer;from+pakistan+" />
+</p>
+
 <p align="center"><b><a href="https://www.linkedin.com/in/annie-karim/" target="_blank">anniekarim29</a></b></p>
 
 🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
