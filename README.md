@@ -14,25 +14,23 @@
 📧 flutterbyannie29@gmail.com  
 🔗 https://www.linkedin.com/in/annie-karim/
 
----
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/annie-karim/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40"/>
+  <a href="https://www.linkedin.com/in/annie-karim/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40"/>
   </a>
-  <a href="https://www.instagram.com/annie_kariim/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
+  <a href="https://www.instagram.com/annie_kariim/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="40"/>
   </a>
-  <a href="https://www.facebook.com/annie.kariim" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>
+  <a href="https://www.facebook.com/annie.kariim">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="40"/>
   </a>
-  <a href="https://www.tiktok.com/@shecodes_apps" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok/000000" width="40"/>
+  <a href="https://www.tiktok.com/@shecodes_apps">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="40"/>
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
 <p align="left">
@@ -50,7 +48,6 @@
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45"/>
 </p>
 
----
 
 ⚡ Fun fact  
 If it works on both iOS and Android, it’s probably luck 🙂
