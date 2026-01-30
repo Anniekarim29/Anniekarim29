@@ -9,17 +9,18 @@
 </p>
 
 
-🐻‍❄️ I’m currently working on Flutter apps with clean architecture, proper state management, and real backend integration.
+🔭 Building Flutter apps with clean architecture, efficient state management, and backend integration.
 
-🌝 I’m currently learning Riverpod for production-grade state management and Node.js for building REST APIs.
+🌝 Currently learning Riverpod, GraphQL integration, and advanced testing strategies for production-grade apps.
 
-👯 I’m looking to collaborate on Flutter apps with backend APIs, organized state handling, and maintainable codebases.
+👯 Open to collaborate on open-source Flutter projects
+
+📄 Know about my experiences  https://www.linkedin.com/in/annie-karim/
 
 💬 Ask me about Flutter state management, REST API integration, app architecture, navigation, and production-ready builds.
 
 📫 How to reach me  
 📧 flutterbyannie29@gmail.com  
-🔗 https://www.linkedin.com/in/annie-karim/
 
 ## 🌐 Connect with me
 <p align="left">
