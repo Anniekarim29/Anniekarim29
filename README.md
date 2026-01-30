@@ -15,9 +15,9 @@
 
 👯 Open to collaborate on open-source Flutter projects
 
-📄 Know about my experiences  https://www.linkedin.com/in/annie-karim/
-
 💬 Ask me about Flutter state management, REST API integration, app architecture, navigation, and production-ready builds.
+
+📄 Know about my experiences  https://www.linkedin.com/in/annie-karim/
 
 📫 How to reach me  
 📧 flutterbyannie29@gmail.com  
