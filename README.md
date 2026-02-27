@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Flutter+App+Developer+from+Pakistan" />
 </p>
 
-<p align="center">
-  <b>Follow: <a href="https://www.linkedin.com/in/annie-karim/" target="_blank">anniekarim29</a></b>
-</p>
-
 
 🔭 Building Flutter apps with clean architecture, efficient state management, and backend integration.
 
