@@ -1,7 +1,7 @@
 <p align="center"><b><span style="font-size:40px;">👋 Hi, I'm Annie Karim</span></b></p>
 <p align="center"><span style="font-size:18px;">Software Engineer | Flutter App Developer</span></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=620&lines=Building+scalable+mobile+solutions;2%2B+years+of+hands-on+experience;10%2B+production-ready+apps+delivered" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=620&lines=Building+scalable+mobile+solutions;2%2B+years+of+hands-on+experience;20%2B+production-ready+apps+delivered" />
 </p>
 
 🔭 About Me
