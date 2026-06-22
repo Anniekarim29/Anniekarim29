@@ -1,22 +1,35 @@
-<p align="center"><b><span style="font-size:28px;">Hi 🐼, I'm Annie Karim</span></b></p>
+<p align="center"><b><span style="font-size:40px;">👋 Hi, I'm Annie Karim</span></b></p>
+<p align="center"><span style="font-size:18px;">Software Engineer | Flutter App Developer</span></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Flutter+App+Developer+from+Pakistan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=620&lines=Building+scalable+mobile+solutions;2%2B+years+of+hands-on+experience;10%2B+production-ready+apps+delivered" />
 </p>
 
+---
 
-🔭 Building Flutter apps with clean architecture, efficient state management, and backend integration.
+## 🔭 About Me
 
-🌝 Currently learning Riverpod, GraphQL integration, and advanced testing strategies for production-grade apps.
+I'm a Software Engineer and App Developer from Pakistan. I build mobile and software solutions that help startups and businesses scale, automate, and grow fast.
 
-👯 Open to collaborate on open-source Flutter projects
+---
 
-💬 Ask me about Flutter state management, REST API integration, app architecture, navigation, and production-ready builds.
+## 🌝 Currently Learning
 
-📄 Know about my experiences  https://www.linkedin.com/in/annie-karim/
+React Native, DevOps, and advanced backend architecture for enterprise-scale applications.
 
-📫 How to reach me  
-📧 flutterbyannie29@gmail.com  
+---
+
+## 👯 Collaboration
+
+Open to collaborating on all app and software development projects.
+
+---
+
+## 💬 Ask Me About
+
+Anything related to app development, software engineering, mobile solutions, and building scalable systems.
+
+---
 
 ## 🌐 Connect with me
 <p align="left">
@@ -37,25 +50,34 @@
   </a>
 </p>
 
+---
 
-## Tech Stack
-
+## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
 </p>
 
+---
 
+## 📧 Get in Touch
 
-⚡ Fun fact  
-If it works on both iOS and Android, it’s probably luck 😄
+**Email:** flutterbyannie29@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/annie-karim/  
+**Portfolio:** https://anniekarimportfolio.vercel.app/
+
+---
+
+<p align="center">
+  <i>If it works on both iOS and Android, it's probably luck 😄</i>
+</p>
