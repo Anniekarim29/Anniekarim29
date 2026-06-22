@@ -30,13 +30,13 @@ Anything related to app development, software engineering, mobile solutions, and
   <a href="https://www.linkedin.com/in/annie-karim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/annie_kariim/">
+  <a href="https://www.instagram.com/buildwithannie_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/annie.kariim">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@shecodes_apps">
+  <a href="https://www.tiktok.com/@buildwithannie_">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/30906007/annie-karim">
