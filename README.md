@@ -1,37 +1,31 @@
 <p align="center"><b><span style="font-size:40px;">👋 Hi, I'm Annie Karim</span></b></p>
 <p align="center"><span style="font-size:18px;">Software Engineer | Flutter App Developer</span></p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=620&lines=Building+scalable+mobile+solutions;2%2B+years+of+hands-on+experience;10%2B+production-ready+apps+delivered" />
 </p>
 
----
-
-## 🔭 About Me
+🔭 About Me
 
 I'm a Software Engineer and App Developer from Pakistan. I build mobile and software solutions that help startups and businesses scale, automate, and grow fast.
 
----
 
-## 🌝 Currently Learning
+🌝 Currently Learning
 
 React Native, DevOps, and advanced backend architecture for enterprise-scale applications.
 
----
 
-## 👯 Collaboration
+👯 Collaboration
 
 Open to collaborating on all app and software development projects.
 
----
 
-## 💬 Ask Me About
+💬 Ask Me About
 
 Anything related to app development, software engineering, mobile solutions, and building scalable systems.
 
----
 
-## 🌐 Connect with me
+🌐 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/annie-karim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -50,9 +44,8 @@ Anything related to app development, software engineering, mobile solutions, and
   </a>
 </p>
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
@@ -68,15 +61,14 @@ Anything related to app development, software engineering, mobile solutions, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
 </p>
 
----
+📧 Get in Touch
 
-## 📧 Get in Touch
+Email: flutterbyannie29@gmail.com
 
-**Email:** flutterbyannie29@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/annie-karim/  
-**Portfolio:** https://anniekarimportfolio.vercel.app/
+LinkedIn: https://www.linkedin.com/in/annie-karim/
 
----
+Portfolio: https://anniekarimportfolio.vercel.app/
+
 
 <p align="center">
   <i>If it works on both iOS and Android, it's probably luck 😄</i>
