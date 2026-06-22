@@ -1,27 +1,33 @@
-<p align="center"><b><span style="font-size:40px;">👋 Hi, I'm Annie Karim</span></b></p>
-<p align="center"><span style="font-size:18px;">Software Engineer | Flutter App Developer</span></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=620&lines=Building+scalable+mobile+solutions;2%2B+years+of+hands-on+experience;20%2B+production-ready+apps+delivered" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&weight=700&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Annie+Karim" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-000000?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter%20Developer-0553B1?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pakistan-green?style=for-the-badge&logo=&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=620&lines=🚀+Building+scalable+mobile+solutions;⚡+2%2B+years+of+hands-on+experience;✨+20%2B+production-ready+apps+delivered" />
 </p>
 
 🔭 About Me
 
-I'm a Software Engineer and App Developer from Pakistan. I build mobile and software solutions that help startups and businesses scale, automate, and grow fast.
+💡 I'm a Software Engineer and App Developer from Pakistan. I build mobile and software solutions that help startups and businesses scale, automate, and grow fast.
 
 
 🌝 Currently Learning
 
-React Native, DevOps, and advanced backend architecture for enterprise-scale applications.
+📚 React Native, DevOps, and advanced backend architecture for enterprise-scale applications.
 
 
 👯 Collaboration
 
-Open to collaborating on all app and software development projects.
+🤝 Open to collaborating on all app and software development projects.
 
 
 💬 Ask Me About
 
-Anything related to app development, software engineering, mobile solutions, and building scalable systems.
+🎯 Anything related to app development, software engineering, mobile solutions, and building scalable systems.
 
 
 🌐 Connect with me
@@ -63,11 +69,11 @@ Anything related to app development, software engineering, mobile solutions, and
 
 📧 Get in Touch
 
-Email: flutterbyannie29@gmail.com
+✉️ Email: flutterbyannie29@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/annie-karim/
+💼 LinkedIn: https://www.linkedin.com/in/annie-karim/
 
-Portfolio: https://anniekarimportfolio.vercel.app/
+🌐 Portfolio: https://anniekarimportfolio.vercel.app/
 
 
 <p align="center">
