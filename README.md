@@ -8,7 +8,7 @@
 
 🔭 About Me
 
-I'm a Software Engineer and App Developer from Pakistan. I build mobile and software solutions that help startups and businesses scale, automate, and grow fast.
+I'm a Software Engineer and App Developer from Pakistan. I build mobile and software solutions that help Early stage startups and businesses scale, automate, and grow fast.
 
 
 🌝 Currently Learning
