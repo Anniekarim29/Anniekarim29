@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&weight=900&pause=1000&center=true&vCenter=true&width=700&color=000000&lines=H%20i%20%2C%20%20I%27m%20%20A%20n%20n%20i%20e%20%20K%20a%20r%20i%20m" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&weight=900&pause=1000&center=true&vCenter=true&width=700&color=000000&lines=Hi%2C+I'm+Annie+Karim" />
 </p>
 
 <p align="center"><span style="font-size:16px; color: #333;">Software Engineer | Flutter App Developer | Pakistan</span></p>
