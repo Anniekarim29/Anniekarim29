@@ -10,11 +10,20 @@
 
 ## 🔭 About Me
 
-I'm a Software Engineer and App Developer from Pakistan. I build mobile and software solutions that help early-stage startups and businesses scale, automate, and grow fast.
+I'm a Software Engineer and Flutter App Developer from Pakistan. I build mobile and software solutions that help startups and businesses launch, scale, and grow, with a strong focus on clean architecture and production-ready code.
+
+I'm also expanding my skill set into **AI engineering**, exploring how AI can be integrated into real-world mobile and software products.
 
 ## 💼 My Expertise
 
-I focus on building maintainable architecture, clean code practices, and creating efficient solutions that help teams ship faster and scale confidently.
+- 📱 **Mobile App Development:** Cross-platform Android & iOS apps with Flutter
+- 🏗️ **Clean, Scalable Architecture:** maintainable code that grows with the product
+- 🔥 **Backend & Integrations:** Firebase, REST APIs, Node.js, MySQL
+- 🚀 **Startup MVPs:** taking ideas from concept to production-ready apps
+
+## 🌱 Currently Learning
+
+- 🤖 **AI Engineering:** building AI-powered features and integrating AI into apps
 
 ## 👯 Collaboration
 
@@ -22,7 +31,7 @@ Open to collaborating on all app and software development projects.
 
 ## 💬 Ask Me About
 
-Anything related to app development, software engineering, mobile solutions, and building scalable systems.
+Anything related to app development, software engineering, mobile solutions, AI integration, and building scalable systems.
 
 ## 🌐 Connect with me
 <p align="left">
